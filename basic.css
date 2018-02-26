@@ -10,10 +10,20 @@ p
 	font-size: 16pt;
 	margin-bottom: 3%;
 }
-h1,h2,h3{
+h1{
+	margin: 2%;
+	color: #e24638;
+	font-size: 28pt;
+}
+h2{
 	margin: 2%;
 	color: #e24638;
 	font-size: 24pt;
+}
+h3{
+	margin: 2%;
+	color: #e24638;
+	font-size: 20pt;
 }
 .navbar {
     list-style-type: none;
@@ -43,11 +53,16 @@ body {
 	background-size: 100%;
     
 }
-#stuff
+.stuff
 {
 	float: left;
 }
-#back
+#stuff2
+{
+	float: right;
+	margin-left: 3%;
+}
+.back
 {
 	background: #dbdbdb;
 	margin-left: 5%;
@@ -70,6 +85,10 @@ img
 {
 	Margin-right: 2%;
 	border: solid; 
+}
+.list{
+	color: #e24638;
+	font-size: 16pt;
 }
     
     
